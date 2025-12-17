@@ -55,10 +55,11 @@ python main.py
 
 ```
 .
+├── screenshots/       # スクリーンショット保存用ディレクトリ（自動生成）
+├── LICENSE            # ライセンス
 ├── main.py            # FSSRアルゴリズムおよびベンチマーク用メインスクリプト
-├── requirements.txt   # 依存ライブラリ一覧
 ├── README.md          # 本ドキュメント
-└── screenshots/       # スクリーンショット保存用ディレクトリ（自動生成）
+└── requirements.txt   # 依存ライブラリ一覧
 
 ```
 
